@@ -1,0 +1,6 @@
+/home/gcelma/Desktop/Labo/Labo01/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gcelma/Desktop/Labo/Labo01/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gcelma/Desktop/Labo/Labo01/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/gtest.dir
+/home/gcelma/Desktop/Labo/Labo01/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir
+/home/gcelma/Desktop/Labo/Labo01/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_algobot.dir
+/home/gcelma/Desktop/Labo/Labo01/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/gtest_main.dir
