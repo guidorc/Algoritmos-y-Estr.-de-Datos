@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gcelma/Desktop/Git/Algoritmos/HashTable/HashTable/Tabla.h
+iostream
+-
+list
+-
+
+/home/gcelma/Desktop/Git/Algoritmos/HashTable/main.cpp
+iostream
+-
+HashTable/Tabla.h
+/home/gcelma/Desktop/Git/Algoritmos/HashTable/HashTable/Tabla.h
+
