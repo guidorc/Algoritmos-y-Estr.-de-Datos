@@ -1,0 +1,6 @@
+/home/gcelma/Desktop/Laboratorios/Labo10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gcelma/Desktop/Laboratorios/Labo10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gcelma/Desktop/Laboratorios/Labo10/cmake-build-debug/CMakeFiles/gtest.dir
+/home/gcelma/Desktop/Laboratorios/Labo10/cmake-build-debug/CMakeFiles/correrTests.dir
+/home/gcelma/Desktop/Laboratorios/Labo10/cmake-build-debug/CMakeFiles/gtest_main.dir
+/home/gcelma/Desktop/Laboratorios/Labo10/cmake-build-debug/CMakeFiles/correrValgrind.dir
